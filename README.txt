@@ -20,5 +20,5 @@ a) Images_Dataset1 - Contains all the learning curves and graphs for dataset1
 b) Images_Dataset2 - Contains all the learning curves and graphs for dataset2
 c) results - Contains all the accuracy scores
 
-5. mgupta318-analysis.pdf - contains the analysis for supervised learning
-6. README.txt - contains instructions and details about various files
+4. mgupta318-analysis.pdf - contains the analysis for supervised learning
+5. README.txt - contains instructions and details about various files
