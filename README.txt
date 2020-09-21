@@ -1,0 +1,24 @@
+Navigate to the below URL that contains all the below files:
+https://github.gatech.edu/mgupta318/ML.git
+
+1. Dataset1 - Wine dataset
+a) Navigate inside “code” folder
+b) The data folder is present inside code folder which has the wine dataset named ‘winequality-white.csv’ 
+c) Run the first code file ‘python mgupta318_SL1.py’
+d) All the validation curves, learning curves and classifiers comparison graphs will be plotted inside the same code folder
+e) The accuracies will be printed on the terminal
+
+2. Dataset2 - Adult income dataset
+a) Navigate inside “code” folder
+b) The data folder is present inside code folder which has the income dataset named ‘adult.data’ 
+c) Run the second code file ‘python mgupta318_SL2.py’
+d) All the validation curves, learning curves and classifiers comparison graphs will be plotted inside the same code folder
+e) The accuracies will be printed on the terminal
+
+3. There are three folders which are not executable and only contain the analysis results which are at same level as code folder
+a) Images_Dataset1 - Contains all the learning curves and graphs for dataset1
+b) Images_Dataset2 - Contains all the learning curves and graphs for dataset2
+c) results - Contains all the accuracy scores
+
+5. mgupta318-analysis.pdf - contains the analysis for supervised learning
+6. README.txt - contains instructions and details about various files
